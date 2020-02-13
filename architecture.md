@@ -4,7 +4,7 @@ First Two Levels of the C4 Diagram Model:
 
 ![Level 1](parkkmap.jpg)
 
-<img src="https://docs.google.com/drawings/d/1sgB8dRMHmqtu1S_O6Bxsil1PMVNQ2EpTfCy_VT-kDvA/edit?usp=sharing"
+<img src="markdownmonstericon.png"
 alt="Level 2 Diagram"
 style="float: left; margin-right: 10px;" />
 
