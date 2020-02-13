@@ -2,7 +2,7 @@ Program Organization
 ===
 First Two Levels of the C4 Diagram Model:
 
-![](../UCF%20Garage%20Project/UCF%20MAP%20System%20Context%20Diagram.jpeg)
+![](https://www.ucf.edu/files/2016/08/florida-gold-ucf-pin.png)
 
 
 
