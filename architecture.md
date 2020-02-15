@@ -82,35 +82,9 @@ The Map:
 	The map will have clickable icons for each building and garage. The user will be able to click buildings and receive information about them, such as their fullness if it is a garage, or location and distance if it is a classroom. The garages on the map will also be color-coded to represent their fullness, so that the user will know how full a garage is before they click on it.
 
 
-  | ID | User Story | Related Class | Explanation |
-  |----|------------|--------|----------|
-  | 000 | As someone who parks at UCF, I want to see parking availability so I know which garage to park in. | Garage | Garage has a field that says how many spots are full and a method that calculates the percentage of spots taken.|
-  | 001 | As someone who parks at UCF, I want to see the walk time to my class so that I know when to leave. | Route, Building | Building  has a field that describes its location. Route then uses this information to give a walk time estimate.|
-  | 002 | As someone who parks at UCF, I want to know the bike time to class so that I know when to leave. | Route, Building | Building has a field that describes its location. Route then uses this information to give a bike time.|
-  | 003 | As someone who parks at UCF, I want to see a garage's peak hours so I know the best time to park. | Garage | Each garage will keep track of its peak hours. |
-  | 004 | As someone who parks at UCF, I want to know a route to my classroom so I can reduce my travel time. | Route | The Route class gives finds a route between to locations. |
-  | 005 | As someone who parks at UCF, I want to see a map of campus that shows me the buildings and garages so I can navigate the campus. | Filter, Building | Filter and Building contribute to what you see on the map. Filter shows how full a garage is by color-coding it and displays the route. Building highlights classrooms on the map which is part of the HTML code. |
-  | 006 | As someone who parks at UCF, I want to be able to tell a garage's fullness from a color label so that it's more clear from a glance. | Filter | The Filter class is what displays the colors that dictate how full a garage is.|
-  | 007 | As someone who parks at UCF, I want to know where I parked so that I don't forget. | Garage | The Garage class can store information about where the user parked.|
-  | 008 | As someone who parks at UCF, I want to know how many spots are left in a garage so I can determine if I can find a spot. | Garage | The Garage class keeps track of how many spots are open and how many spots are occupied, as well as the percentage of spots taken.|
-  | 009 | As someone who parks at UCF, I want to know which garages I can park in with my specific parking pass so that I don't get a parking ticket. | Garage | The Garage class keeps track of which parking passes are required to park in it. |
-  | 010 | As someone who parks at UCF, I want to be able to load the website in a web browser so I can check parking from any device. | - | This functionality is dependent on the website and HTML code.|
-  | 011 | As someone who uses the parking map, I want to be able to select a building or parking garage so that I can see more information and potential interactions | Building, Garage | The Building and Garage classes provide information about themselves, such as how full it is if it is a garage, and where it is if it is a building.|
-  | 012 | As someone who uses the parking map, I want to be able to contact the developer so that improvements can be made to the application (or to express my deepest gratitude) | - | This feature will be controlled by the website.|| ID | User Story | Related Class | Explanation |
-  |----|------------|--------|----------|
-  | 000 | As someone who parks at UCF, I want to see parking availability so I know which garage to park in. | Garage | Garage has a field that says how many spots are full and a method that calculates the percentage of spots taken.|
-  | 001 | As someone who parks at UCF, I want to see the walk time to my class so that I know when to leave. | Route, Building | Building  has a field that describes its location. Route then uses this information to give a walk time estimate.|
-  | 002 | As someone who parks at UCF, I want to know the bike time to class so that I know when to leave. | Route, Building | Building has a field that describes its location. Route then uses this information to give a bike time.|
-  | 003 | As someone who parks at UCF, I want to see a garage's peak hours so I know the best time to park. | Garage | Each garage will keep track of its peak hours. |
-  | 004 | As someone who parks at UCF, I want to know a route to my classroom so I can reduce my travel time. | Route | The Route class gives finds a route between to locations. |
-  | 005 | As someone who parks at UCF, I want to see a map of campus that shows me the buildings and garages so I can navigate the campus. | Filter, Building | Filter and Building contribute to what you see on the map. Filter shows how full a garage is by color-coding it and displays the route. Building highlights classrooms on the map which is part of the HTML code. |
-  | 006 | As someone who parks at UCF, I want to be able to tell a garage's fullness from a color label so that it's more clear from a glance. | Filter | The Filter class is what displays the colors that dictate how full a garage is.|
-  | 007 | As someone who parks at UCF, I want to know where I parked so that I don't forget. | Garage | The Garage class can store information about where the user parked.|
-  | 008 | As someone who parks at UCF, I want to know how many spots are left in a garage so I can determine if I can find a spot. | Garage | The Garage class keeps track of how many spots are open and how many spots are occupied, as well as the percentage of spots taken.|
-  | 009 | As someone who parks at UCF, I want to know which garages I can park in with my specific parking pass so that I don't get a parking ticket. | Garage | The Garage class keeps track of which parking passes are required to park in it. |
-  | 010 | As someone who parks at UCF, I want to be able to load the website in a web browser so I can check parking from any device. | - | This functionality is dependent on the website and HTML code.|
-  | 011 | As someone who uses the parking map, I want to be able to select a building or parking garage so that I can see more information and potential interactions | Building, Garage | The Building and Garage classes provide information about themselves, such as how full it is if it is a garage, and where it is if it is a building.|
-  | 012 | As someone who uses the parking map, I want to be able to contact the developer so that improvements can be made to the application (or to express my deepest gratitude) | - | This feature will be controlled by the website.|
+	| ID | User Story | Related UI Component | Explanation |
+	|----|------------|--------|----------|
+	| 000 | As someone who parks at UCF, I want to see parking availability so I know which garage to park in. | Garage Availability | This section lists all the garages,.|
 
 
 
