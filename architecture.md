@@ -102,6 +102,10 @@ The Map:
 	|----|------------|-----------|--------------|
 	| 000 | As someone who parks at UCF, I want to see parking availability so I know which garage to park in. | Garage | This section lists all the garages, along with how many spots are available, unavailable, and what percent full the garage is.|
 
+  | ID | User Story | Related Class | Explanation |
+  |----|------------|--------|----------|
+  | 000 | As someone who parks at UCF, I want to see parking availability so I know which garage to park in. | Garage | Garage has a field that says how many spots are full and a method that calculates the percentage of spots taken.|
+
 Resource Management
 ===
 
