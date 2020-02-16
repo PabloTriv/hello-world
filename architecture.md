@@ -98,8 +98,8 @@ The Map:
   | 012 | As someone who uses the parking map, I want to be able to contact the developer so that improvements can be made to the application (or to express my deepest gratitude) | - | This feature will be controlled by the website.|
 
 
-	| ID | User Story | Related UI Component | Explanation |
-	|----|------------|-----------|--------------|
+	| ID | User Story | Related Class | Explanation |
+	|----|------------|--------|----------|
 	| 000 | As someone who parks at UCF, I want to see parking availability so I know which garage to park in. | Garage | This section lis, along with how many spots are available, unavailable, and what percent full the garage is.|
 
   | ID | User Story | Related Class | Explanation |
