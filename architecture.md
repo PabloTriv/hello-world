@@ -29,6 +29,7 @@ Filter:
 Route:
 The class that works with the Filter class and that finds the route from a start point to an end point. Its two public methods simply turn it on or off. Its private methods set and change the start and end points, and also find a route between those two points.
 
+Related User Stories:
 
 | ID | User Story | Related Class | Explanation |
 |----|------------|--------|----------|
