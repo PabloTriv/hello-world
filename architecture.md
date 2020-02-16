@@ -100,7 +100,7 @@ The Map:
 
 	| ID | User Story | Related UI Component | Explanation |
 	|----|------------|-----------|--------------|
-	| 000 | As someone who parks at UCF, I want to see parking availability so I know which garage to park in. | Garage | This section lists all the garages, along with how many spots are available, unavailable, and what percent full the garage is.|
+	| 000 | As someone who parks at UCF, I want to see parking availability so I know which garage to park in. | Garage | This section lis, along with how many spots are available, unavailable, and what percent full the garage is.|
 
   | ID | User Story | Related Class | Explanation |
   |----|------------|--------|----------|
