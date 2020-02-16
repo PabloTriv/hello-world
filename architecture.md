@@ -78,6 +78,10 @@ Show route:
 Go to Google Maps:
 	The user will click this and will be shown an estimated travel time and route depending on the options they chose above.
 
+  | ID | User Story | Related Class | Explanation |
+  |----|------------|--------|----------|
+  | 000 | As someone who parks at UCF, I want to see parking availability so I know which garage to park in. | Garage | This section lis, along with how many spots are available, unavailable, and what percent full the garage is.|
+
 The Map:
 	The map will have clickable icons for each building and garage. The user will be able to click buildings and receive information about them, such as their fullness if it is a garage, or location and distance if it is a classroom. The garages on the map will also be color-coded to represent their fullness, so that the user will know how full a garage is before they click on it.
 
