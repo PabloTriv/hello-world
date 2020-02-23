@@ -1,6 +1,6 @@
 Program Organization
 ===
-[Architectural Diagram](https://github.com/PabloTriv/hello-world/blob/master/images/Capture.PNG)
+![Architectural Diagram](https://github.com/PabloTriv/hello-world/blob/master/images/Capture.PNG)
 
 Architectural Description:
 In the first level of the diagram, the user, highlighted in green, accesses the website to view parking availability and travel times from the garage the user desires to park in to his or her class. The website, represented by a blue square, indicating it is software being developed, uses two existing software systems: Google Maps and UCF Parking Services. The user is able to view parking availability on the website when that information is retrieved from UCF Parking Services. Additionally, the user is able to view travel times on the website, which uses Google Maps to provide that information.
